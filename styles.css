@@ -7,6 +7,10 @@
     margin: 0 auto;
 }
 
+hr {
+    border-color: coral;
+}
+
 h1 {
     text-align: center;
 }
